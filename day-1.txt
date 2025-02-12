@@ -3,6 +3,14 @@ day -1 git and github
     * about git and git hub
     * how do we create a folder 
     * how do we create a new file and commit it 
+  pratices
+    *  we config the git and github
+    *  we create a folder 
+    *  we create a new file and commit it 
+
+
+
+
   
 
 
