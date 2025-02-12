@@ -1,0 +1,8 @@
+day -1 git and github
+  learned 
+    * about git and git hub
+    * how do we create a folder 
+    * how do we create a new file and commit it 
+  
+
+
